@@ -1,0 +1,19 @@
+@mixin fm {
+    font-family: 'Lato', sans-serif
+}
+
+@mixin lig {
+    font-weight: 300;
+}
+
+@mixin nor {
+    font-weight: 400;
+}
+
+@mixin bol {
+    font-weight: 700;
+}
+
+@mixin bla {
+    font-weight: 900;
+}
