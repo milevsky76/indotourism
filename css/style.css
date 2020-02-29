@@ -546,4 +546,13 @@ body {
   font-weight: 300;
   font-size: 14px;
 }
+
+.designed__link {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.designed__link:hover {
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */
